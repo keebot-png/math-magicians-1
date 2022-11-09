@@ -40,10 +40,8 @@ To get a local copy up and running follow these simple steps.
 2. Run `npm run build` To build project files in development mode **OR** `npm run dist` To build project files in production mode _(The destination folder is `/dist`)_.
 
 3. To open the Webpack liver server run `npm run start`.
-   
-4. To run the project open the `index.html` inside the `/dist` folder.
 
-### Setup
+## Cloning steps
 
   To clone and run this project on your machine please follow the instructions: 
 
@@ -74,9 +72,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Microverse
 
 ## 📝 License
 
