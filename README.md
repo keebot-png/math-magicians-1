@@ -4,7 +4,7 @@
 
 > Description the project.
 
-In this project I have installed the respective React files and linters as well as the user interface that closely matches the template. This project involves building a calculator with basic functionality using the React framework.
+In this project I have installed the respective React files and linters as well as the user interface that closely matches the template. The next step was to incorporate state and props, passing props into child components and using using lifecycle methods to get the calculator functioning. This project involves building a calculator with basic functionality using the React framework.
 
 ## Built With
 
