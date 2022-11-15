@@ -1,0 +1,23 @@
+html {
+  font-size: 62.5%;
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+.home-container {
+  display: flex;
+  flex-direction: column;
+  padding: 40px;
+  gap: 25px;
+}
+
+.title {
+  font-size: 50px;
+}
