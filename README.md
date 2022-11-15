@@ -1,8 +1,11 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Math Magicians: refactor with hooks
+# Math Magicians
 
-In this project I have installed the respective React files and linters as well as the user interface that closely matches the template. The next step was to incorporate state and props, passing props into child components and using using lifecycle methods to get the calculator functioning. Lastly, this project involves building a calculator with basic functionality by refactoring class-based components with hooks.
+"Math magicians" is a web application for those who are interested in Mathematics. It is a Single Page App (SPA) that allows users to:
+
+- Make simple calculations.
+- Read a random math-related quote.
 
 ## Built With
 
