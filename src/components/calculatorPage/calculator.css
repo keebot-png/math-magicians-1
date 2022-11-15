@@ -11,6 +11,14 @@ html {
   box-sizing: inherit;
 }
 
+.text {
+  display: flex;
+  justify-content: center;
+  margin-top: 10rem;
+  font-size: 40px;
+  font-family: sans-serif;
+}
+
 .calculator {
   border: 1px solid #ccc;
   border-radius: 5px;

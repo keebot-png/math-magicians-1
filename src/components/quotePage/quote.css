@@ -1,0 +1,32 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+.quotes-container {
+  display: flex;
+  flex-direction: column;
+  padding: 50px;
+  margin-top: 15rem;
+  gap: 10px;
+}
+
+p {
+  font-size: 25px;
+  font-family: sans-serif;
+  align-self: center;
+}
+
+span {
+  font-size: 20px;
+  font-family: sans-serif;
+  align-self: center;
+  font-style: italic;
+}
