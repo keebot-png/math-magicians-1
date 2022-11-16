@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing the links in the navbar Testing to show that all links are displaying correctly 1`] = `
+Array [
+  <a
+    href="/"
+  >
+    Home
+  </a>,
+]
+`;
+
+exports[`Testing the links in the navbar Testing to show that all links are displaying correctly 2`] = `
+Array [
+  <a
+    href="/calculator"
+  >
+    Calculator
+  </a>,
+]
+`;
+
+exports[`Testing the links in the navbar Testing to show that all links are displaying correctly 3`] = `
+Array [
+  <a
+    href="/quote"
+  >
+    Quote
+  </a>,
+]
+`;

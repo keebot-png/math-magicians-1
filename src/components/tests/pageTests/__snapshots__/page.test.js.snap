@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test React Page Components Test Calculator Page is rendered 1`] = `Promise {}`;
+
+exports[`Test React Page Components Test Home Page is rendered 1`] = `
+Array [
+  <h1
+    class="title"
+  >
+    Welcome to our page!
+  </h1>,
+]
+`;
+
+exports[`Test React Page Components Test Quote Page is rendered 1`] = `Promise {}`;
