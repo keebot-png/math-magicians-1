@@ -52,7 +52,6 @@ To get a local copy up and running follow these simple steps.
 
 3. Browse to the project folder and open the `index.html` file.
 
-
 ## Authors
 
 👤 **keebot-png**
