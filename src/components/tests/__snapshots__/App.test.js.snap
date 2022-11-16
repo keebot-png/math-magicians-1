@@ -1,0 +1,74 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Jest snapshot to test components 1`] = `
+<div>
+  <nav>
+    <div
+      className="headline"
+    >
+      Math Magicians
+    </div>
+    <ul
+      className="navList"
+    >
+      <li
+        className="navList-item"
+      >
+        <a
+          href="/"
+          onClick={[Function]}
+        >
+          Home
+        </a>
+      </li>
+      <li>
+        |
+      </li>
+      <li
+        className="navList-item"
+      >
+        <a
+          href="/calculator"
+          onClick={[Function]}
+        >
+          Calculator
+        </a>
+      </li>
+      <li>
+        |
+      </li>
+      <li
+        className="navList-item"
+      >
+        <a
+          href="/quote"
+          onClick={[Function]}
+        >
+          Quote
+        </a>
+      </li>
+    </ul>
+  </nav>
+  <div
+    className="home-container"
+  >
+    <h1
+      className="title"
+    >
+      Welcome to our page!
+    </h1>
+    <br />
+    <p
+      className="home-text"
+    >
+      Here is a calculator app that has successfully been built using the React framework. It has all the necessary and basic components that are suited for essential math functions.
+    </p>
+    <br />
+    <p
+      className="home-text"
+    >
+      The home page provides an explaination of the webapp features, which includes: a functional calculator and a random quote generator that changes every time the navbar link is clicked.
+    </p>
+  </div>
+</div>
+`;
