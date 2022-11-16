@@ -57,9 +57,11 @@ To get a local copy up and running follow these simple steps.
 
 👤 **keebot-png**
 
-- GitHub: [@keebot-png](https://github.com/keebot-png)
-- Twitter: [@KeenanBotes](https://twitter.com/KeenanBotes)
-- LinkedIn: [kee.bot@icloud.com](https://www.linkedin.com/in/keenan-botes-947043160)
+[GitHub](https://github.com/keebot-png) | [Twitter](https://twitter.com/KeenanBotes) | [LinkedIn](https://www.linkedin.com/in/keenan-botes-947043160)
+
+👤 **Chukwuma Paul Mosanya**
+
+[GitHub](https://github.com/blase147) | [Twitter](https://twitter.com/DevUmerZia) | [LinkedIn](https://www.linkedin.com/in/chukwuma-mosanya-34645388)
 
 ## 🤝 Contributing
 
