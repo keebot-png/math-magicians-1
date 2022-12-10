@@ -20,7 +20,7 @@
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://maths-calculator-quote.netlify.app/)
 
 
 ## Getting Started
